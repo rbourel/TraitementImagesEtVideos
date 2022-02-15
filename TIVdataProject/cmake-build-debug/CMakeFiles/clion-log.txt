@@ -1,0 +1,4 @@
+/snap/clion/178/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/rbourel/Documents/4INFO/TIV/tiveuxoutiveuxpas/TIVdataProject
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/rbourel/Documents/4INFO/TIV/tiveuxoutiveuxpas/TIVdataProject/cmake-build-debug
